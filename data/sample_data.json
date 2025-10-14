@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "cana",
+    "area_ha": 100.0,
+    "produtividade_t_ha": 80.0,
+    "perda_percentual": 10.0
+  },
+  {
+    "tipo": "soja",
+    "area_ha": 50.0,
+    "produtividade_t_ha": 3.2,
+    "perda_percentual": 2.0
+  }
+]

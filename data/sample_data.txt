@@ -1,0 +1,3 @@
+Exemplo de arquivo texto para o projeto de Gestão do Agronegócio.
+Linha 1: informações de amostra.
+Linha 2: mais texto.
